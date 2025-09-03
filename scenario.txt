@@ -1,0 +1,17 @@
+scenario
+
+flipper
+backpack
+watch
+totebag
+flipper + backpack
+flipper + watch
+flipper + totebag
+backpack + watch
+backpack + totebag
+watch + totebag
+flipper + backpack + watch
+flipper + watch + totebag
+backpack + watch + totebag
+flipper + backpack + totebag
+flipper + backpack + watch + totebag
